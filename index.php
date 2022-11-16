@@ -30,8 +30,6 @@
     <button type="button" class="btn btn-success">CLICK ME</button>
     <button type="button" class="btn btn-dark">DOUBLE CLICK</button>
     <button type="button" class="btn btn-outline-info">SINGLE CLICK</button>
+    <a href="https://www.heroku.com" target="_blank" class="btn btn-primary">Heroku.com<a/>
 
-
-
-    
     <?php require 'includes/footer.php' ?>
